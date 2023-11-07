@@ -5,7 +5,7 @@
 viewBox="0 0 20000 20000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="689" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+  <font id="FontID0" horiz-adv-x="689" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -38,8 +38,8 @@ viewBox="0 0 20000 20000"
     @font-face { font-family:"Lucida Sans Unicode";src:url("#FontID0") format(svg)}
     .str3 {stroke:blue;stroke-width:7.62}
     .str2 {stroke-width:21.6}
-    .str0 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
-    .str1 {stroke:aqua;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:aqua;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
     .fil0 {fill:none}
     .fil1 {fill:black}
     .fnt1 {font-weight:normal;font-size:352.78;font-family:'Lucida Sans Unicode'}
@@ -50,118 +50,102 @@ viewBox="0 0 20000 20000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_948466832">
-   <path class="fil0 str0" d="M42800 6700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
-   <circle class="fil0 str0" cx="45000" cy="5000" r="300"/>
-   <circle class="fil0 str0" cx="45000" cy="3500" r="300"/>
-   <circle class="fil0 str0" cx="45000" cy="6500" r="300"/>
-   <circle class="fil0 str0" cx="43500" cy="5000" r="300"/>
-   <circle class="fil0 str0" cx="43500" cy="3500" r="300"/>
-   <circle class="fil0 str0" cx="43500" cy="6500" r="300"/>
-   <circle class="fil0 str0" cx="46500" cy="5000" r="300"/>
-   <circle class="fil0 str0" cx="46500" cy="3500" r="300"/>
-   <circle class="fil0 str0" cx="46500" cy="6500" r="300"/>
-   <circle class="fil0 str0" cx="44250" cy="6500" r="150"/>
-   <circle class="fil0 str0" cx="45750" cy="6500" r="150"/>
-   <circle class="fil0 str0" cx="44250" cy="5000" r="150"/>
-   <circle class="fil0 str0" cx="45750" cy="5000" r="150"/>
-   <circle class="fil0 str0" cx="44250" cy="3500" r="150"/>
-   <circle class="fil0 str0" cx="45750" cy="3500" r="150"/>
-   <circle class="fil0 str0" cx="43500" cy="5750" r="150"/>
-   <circle class="fil0 str0" cx="45000" cy="5750" r="150"/>
-   <circle class="fil0 str0" cx="46500" cy="5750" r="150"/>
-   <circle class="fil0 str0" cx="43500" cy="4250" r="150"/>
-   <circle class="fil0 str0" cx="45000" cy="4250" r="150"/>
-   <circle class="fil0 str0" cx="46500" cy="4250" r="150"/>
-  </g>
-  <rect class="fil0 str1" x="-4500" y="8500" width="30000" height="2000"/>
-  <g id="_948465072">
-   <circle class="fil0 str0" cx="30000" cy="12500" r="300"/>
-   <circle class="fil0 str0" cx="30000" cy="12500" r="850"/>
-  </g>
-  <text x="27910" y="8288"  class="fil1 fnt0">bearing_606</text>
-  <g id="_790545984">
+  <g id="_948942720">
    <g>
-    <circle class="fil0 str1" cx="7500" cy="7650" r="300"/>
-    <circle class="fil0 str1" cx="7500" cy="7650" r="850"/>
+    <circle class="fil0 str0" cx="10500" cy="11000" r="300"/>
+    <circle class="fil0 str0" cx="10500" cy="11000" r="850"/>
    </g>
-   <g>
-    <circle class="fil0 str1" cx="10500" cy="11350" r="300"/>
-    <circle class="fil0 str1" cx="10500" cy="11350" r="850"/>
-   </g>
-   <g>
-    <circle class="fil0 str1" cx="13500" cy="7650" r="300"/>
-    <circle class="fil0 str1" cx="13500" cy="7650" r="850"/>
-   </g>
+   <circle class="fil0 str0" cx="10500" cy="11000" r="1450"/>
   </g>
-  <path class="fil0 str0" d="M6800 11950l0 -4900c0,-276 224,-500 500,-500l6400 0c276,0 500,224 500,500l0 4900c0,276 -224,500 -500,500l-6400 0c-276,0 -500,-224 -500,-500z"/>
-  <circle class="fil0 str0" cx="43500" cy="19250" r="300"/>
-  <circle class="fil0 str0" cx="43500" cy="17750" r="300"/>
-  <circle class="fil0 str0" cx="43500" cy="20750" r="300"/>
-  <circle class="fil0 str0" cx="42000" cy="19250" r="300"/>
-  <circle class="fil0 str0" cx="42000" cy="17750" r="300"/>
-  <circle class="fil0 str0" cx="42000" cy="20750" r="300"/>
-  <circle class="fil0 str0" cx="45000" cy="19250" r="300"/>
-  <circle class="fil0 str0" cx="45000" cy="17750" r="300"/>
-  <circle class="fil0 str0" cx="45000" cy="20750" r="300"/>
-  <circle class="fil0 str0" cx="42750" cy="20750" r="150"/>
-  <circle class="fil0 str0" cx="44250" cy="20750" r="150"/>
-  <circle class="fil0 str0" cx="42750" cy="19250" r="150"/>
-  <circle class="fil0 str0" cx="44250" cy="19250" r="150"/>
-  <circle class="fil0 str0" cx="42750" cy="17750" r="150"/>
-  <circle class="fil0 str0" cx="44250" cy="17750" r="150"/>
-  <circle class="fil0 str0" cx="42000" cy="20000" r="150"/>
-  <circle class="fil0 str0" cx="43500" cy="20000" r="150"/>
-  <circle class="fil0 str0" cx="45000" cy="20000" r="150"/>
-  <circle class="fil0 str0" cx="42000" cy="18500" r="150"/>
-  <circle class="fil0 str0" cx="43500" cy="18500" r="150"/>
-  <circle class="fil0 str0" cx="45000" cy="18500" r="150"/>
-  <circle class="fil0 str0" cx="7500" cy="7650" r="300"/>
-  <circle class="fil0 str0" cx="13500" cy="7650" r="300"/>
-  <path class="fil0 str0" d="M10800 10975l0 750c0,166 -134,300 -300,300 -166,0 -300,-134 -300,-300l0 -750c0,-166 134,-300 300,-300 166,0 300,134 300,300z"/>
-  <circle class="fil0 str0" cx="9000" cy="7250" r="300"/>
-  <circle class="fil0 str0" cx="9000" cy="8000" r="150"/>
-  <circle class="fil0 str0" cx="10500" cy="7250" r="300"/>
-  <circle class="fil0 str0" cx="11250" cy="7250" r="150"/>
-  <circle class="fil0 str0" cx="10500" cy="8000" r="150"/>
-  <circle class="fil0 str0" cx="12000" cy="7250" r="300"/>
-  <circle class="fil0 str0" cx="12000" cy="8000" r="150"/>
-  <circle class="fil0 str0" cx="9750" cy="7250" r="150"/>
-  <circle class="fil0 str0" cx="9000" cy="8750" r="300"/>
-  <circle class="fil0 str0" cx="10500" cy="8750" r="300"/>
-  <circle class="fil0 str0" cx="11250" cy="8750" r="150"/>
-  <circle class="fil0 str0" cx="12000" cy="8750" r="300"/>
-  <circle class="fil0 str0" cx="9750" cy="8750" r="150"/>
-  <circle class="fil0 str0" cx="9000" cy="10250" r="300"/>
-  <circle class="fil0 str0" cx="9000" cy="11000" r="150"/>
-  <circle class="fil0 str0" cx="11250" cy="10250" r="150"/>
-  <circle class="fil0 str0" cx="12000" cy="10250" r="300"/>
-  <circle class="fil0 str0" cx="12000" cy="11000" r="150"/>
-  <circle class="fil0 str0" cx="9750" cy="10250" r="150"/>
-  <circle class="fil0 str0" cx="9000" cy="11750" r="300"/>
-  <circle class="fil0 str0" cx="12000" cy="11750" r="300"/>
-  <circle class="fil0 str0" cx="12750" cy="10250" r="150"/>
-  <circle class="fil0 str0" cx="13500" cy="10250" r="300"/>
-  <circle class="fil0 str0" cx="13500" cy="11000" r="150"/>
-  <circle class="fil0 str0" cx="8250" cy="10250" r="150"/>
-  <circle class="fil0 str0" cx="7500" cy="10250" r="300"/>
-  <circle class="fil0 str0" cx="7500" cy="11000" r="150"/>
-  <circle class="fil0 str0" cx="8250" cy="11750" r="150"/>
-  <circle class="fil0 str0" cx="7500" cy="11750" r="300"/>
-  <circle class="fil0 str0" cx="12750" cy="11750" r="150"/>
-  <circle class="fil0 str0" cx="13500" cy="11750" r="300"/>
+  <g id="_948933440">
+   <path class="fil0 str1" d="M20300 6700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
+   <circle class="fil0 str1" cx="22500" cy="5000" r="300"/>
+   <circle class="fil0 str1" cx="22500" cy="3500" r="300"/>
+   <circle class="fil0 str1" cx="22500" cy="6500" r="300"/>
+   <circle class="fil0 str1" cx="21000" cy="5000" r="300"/>
+   <circle class="fil0 str1" cx="21000" cy="3500" r="300"/>
+   <circle class="fil0 str1" cx="21000" cy="6500" r="300"/>
+   <circle class="fil0 str1" cx="24000" cy="5000" r="300"/>
+   <circle class="fil0 str1" cx="24000" cy="3500" r="300"/>
+   <circle class="fil0 str1" cx="24000" cy="6500" r="300"/>
+   <circle class="fil0 str1" cx="21750" cy="6500" r="150"/>
+   <circle class="fil0 str1" cx="23250" cy="6500" r="150"/>
+   <circle class="fil0 str1" cx="21750" cy="5000" r="150"/>
+   <circle class="fil0 str1" cx="23250" cy="5000" r="150"/>
+   <circle class="fil0 str1" cx="21750" cy="3500" r="150"/>
+   <circle class="fil0 str1" cx="23250" cy="3500" r="150"/>
+   <circle class="fil0 str1" cx="21000" cy="5750" r="150"/>
+   <circle class="fil0 str1" cx="22500" cy="5750" r="150"/>
+   <circle class="fil0 str1" cx="24000" cy="5750" r="150"/>
+   <circle class="fil0 str1" cx="21000" cy="4250" r="150"/>
+   <circle class="fil0 str1" cx="22500" cy="4250" r="150"/>
+   <circle class="fil0 str1" cx="24000" cy="4250" r="150"/>
+  </g>
+  <rect class="fil0 str0" x="-4500" y="8100" width="30000" height="2000"/>
+  <g id="_948932480">
+   <circle class="fil0 str1" cx="22500" cy="18500" r="300"/>
+   <circle class="fil0 str1" cx="22500" cy="18500" r="850"/>
+  </g>
+  <text x="20410" y="14288"  class="fil1 fnt0">bearing_606</text>
+  <g id="_948927168">
+   <circle class="fil0 str0" cx="7500" cy="7250" r="300"/>
+   <circle class="fil0 str0" cx="7500" cy="7250" r="850"/>
+  </g>
+  <g id="_948926112">
+   <circle class="fil0 str0" cx="13500" cy="7250" r="300"/>
+   <circle class="fil0 str0" cx="13500" cy="7250" r="850"/>
+  </g>
+  <path class="fil0 str1" d="M6800 11950l0 -4900c0,-276 224,-500 500,-500l6400 0c276,0 500,224 500,500l0 4900c0,276 -224,500 -500,500l-6400 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str1" cx="7500" cy="7250" r="300"/>
+  <circle class="fil0 str1" cx="13500" cy="7250" r="300"/>
+  <path class="fil0 str1" d="M10800 11000l0 750c0,166 -134,300 -300,300 -166,0 -300,-134 -300,-300l0 -750c0,-166 134,-300 300,-300 166,0 300,134 300,300z"/>
+  <circle class="fil0 str1" cx="9000" cy="7250" r="300"/>
+  <circle class="fil0 str1" cx="9000" cy="8000" r="150"/>
+  <circle class="fil0 str1" cx="10500" cy="7250" r="300"/>
+  <circle class="fil0 str1" cx="11250" cy="7250" r="150"/>
+  <circle class="fil0 str1" cx="10500" cy="8000" r="150"/>
+  <circle class="fil0 str1" cx="12000" cy="7250" r="300"/>
+  <circle class="fil0 str1" cx="12000" cy="8000" r="150"/>
+  <circle class="fil0 str1" cx="9750" cy="7250" r="150"/>
+  <circle class="fil0 str1" cx="9000" cy="8750" r="300"/>
+  <circle class="fil0 str1" cx="10500" cy="8750" r="300"/>
+  <circle class="fil0 str1" cx="11250" cy="8750" r="150"/>
+  <circle class="fil0 str1" cx="12000" cy="8750" r="300"/>
+  <circle class="fil0 str1" cx="9750" cy="8750" r="150"/>
+  <circle class="fil0 str1" cx="9000" cy="10250" r="300"/>
+  <circle class="fil0 str1" cx="9000" cy="11000" r="150"/>
+  <circle class="fil0 str1" cx="11250" cy="10250" r="150"/>
+  <circle class="fil0 str1" cx="12000" cy="10250" r="300"/>
+  <circle class="fil0 str1" cx="12000" cy="11000" r="150"/>
+  <circle class="fil0 str1" cx="9750" cy="10250" r="150"/>
+  <circle class="fil0 str1" cx="9000" cy="11750" r="300"/>
+  <circle class="fil0 str1" cx="12000" cy="11750" r="300"/>
+  <circle class="fil0 str1" cx="12750" cy="10250" r="150"/>
+  <circle class="fil0 str1" cx="13500" cy="10250" r="300"/>
+  <circle class="fil0 str1" cx="13500" cy="11000" r="150"/>
+  <circle class="fil0 str1" cx="8250" cy="10250" r="150"/>
+  <circle class="fil0 str1" cx="7500" cy="10250" r="300"/>
+  <circle class="fil0 str1" cx="7500" cy="11000" r="150"/>
+  <circle class="fil0 str1" cx="8250" cy="11750" r="150"/>
+  <circle class="fil0 str1" cx="7500" cy="11750" r="300"/>
+  <circle class="fil0 str1" cx="12750" cy="11750" r="150"/>
+  <circle class="fil0 str1" cx="13500" cy="11750" r="300"/>
   <g transform="matrix(0.999993 0 0 1 512.357 -677.3)">
    <text x="6862" y="10000"  class="fil0 str3 fnt1">tdpbmct_twenty_twenty_aluminiunm</text>
   </g>
   <g transform="matrix(0.999993 0 0 1 512.357 -677.3)">
    <text x="7967" y="10542"  class="fil0 str3 fnt1">extrusion_slide_module</text>
   </g>
-  <rect class="fil0 str1" x="-4500" y="11150" width="30000" height="1200"/>
+  <rect class="fil0 str0" x="-4500" y="11150" width="30000" height="1200"/>
   <g transform="matrix(1.00001 0 0 1 10.157 -8772.76)">
    <text x="587" y="10000"  class="fil1 fnt2">tdpbmct_twenty_twenty_aluminiunm</text>
   </g>
   <g transform="matrix(1.00001 0 0 1 10.157 -8772.76)">
    <text x="3900" y="11626"  class="fil1 fnt2">extrusion_slide_module</text>
   </g>
+  <circle class="fil0 str1" cx="7500" cy="8750" r="300"/>
+  <circle class="fil0 str1" cx="8250" cy="8750" r="150"/>
+  <circle class="fil0 str1" cx="13500" cy="8750" r="300"/>
+  <circle class="fil0 str1" cx="12750" cy="8750" r="150"/>
  </g>
 </svg>

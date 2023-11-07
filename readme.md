@@ -4,6 +4,18 @@ A simple module that uses 2020 aluminium extrusion and 606 bearings to create a 
 * tdpbmct - is an acronym for three d printing manufacturing cell topology
 A simple module that uses 2020 aluminium extrusion and 606 bearings to create a slide  
 
+[![](image_600.jpg)](image.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 

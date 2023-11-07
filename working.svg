@@ -50,7 +50,7 @@ viewBox="0 0 20000 20000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_943704496">
+  <g id="_948466832">
    <path class="fil0 str0" d="M42800 6700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
    <circle class="fil0 str0" cx="45000" cy="5000" r="300"/>
    <circle class="fil0 str0" cx="45000" cy="3500" r="300"/>
@@ -75,12 +75,12 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="46500" cy="4250" r="150"/>
   </g>
   <rect class="fil0 str1" x="-4500" y="8500" width="30000" height="2000"/>
-  <g id="_943704592">
+  <g id="_948465072">
    <circle class="fil0 str0" cx="30000" cy="12500" r="300"/>
    <circle class="fil0 str0" cx="30000" cy="12500" r="850"/>
   </g>
   <text x="27910" y="8288"  class="fil1 fnt0">bearing_606</text>
-  <g id="_943694992">
+  <g id="_790545984">
    <g>
     <circle class="fil0 str1" cx="7500" cy="7650" r="300"/>
     <circle class="fil0 str1" cx="7500" cy="7650" r="850"/>

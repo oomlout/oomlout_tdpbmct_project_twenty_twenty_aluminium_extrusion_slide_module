@@ -1,5 +1,6 @@
-id: oomlout_oomp_electronic_project_svg_component_placement
-name: "SVG Component Placement in Kicad"
-description: "Placing components along a path in Kicad."
+id: oomlout_tdpbmct_project_twenty_twenty_aluminium_extrusion_slide_module
+name: "Twenty Twenty Aluminium Extrusion Slide Module"
+description: "A simple module that uses 2020 aluminium extrusion and 606 bearings to create a slide"
 readme_manual: |
   ##notes
+  * tdpbmct - is an acronym for three d printing manufacturing cell topology
